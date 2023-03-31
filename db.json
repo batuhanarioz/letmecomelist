@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "name": "Çamaşır Makinesi",
+    "details": "İkinci El Çamaşır Makinesi"
+  },
+  {
+    "id": "2",
+    "name": "Buzdolabı",
+    "details": "İkinci El Buzdolabı"
+  },
+  {
+    "id": "3",
+    "name": "Iphone 11",
+    "details": "İkinci El Garantili"
+  },
+  {
+    "id": "4",
+    "name": "Ütü",
+    "details": "5 Yıllık Ütü"
+  },
+  {
+    "id": "5",
+    "name": "Terlik",
+    "details": "Düz Terlik"
+  },
+  {
+    "id": "6",
+    "name": "Bisiklet",
+    "details": "Salcano Dağ Bisikleti"
+  },
+  {
+    "id": "7",
+    "name": "Gardırop",
+    "details": "Üç Kapaklı Az Kullanılmış Gardırop"
+  },
+  {
+    "id": "8",
+    "name": "Türbişon",
+    "details": "Altın Değerinde"
+  },
+  {
+    "id": "9",
+    "name": "Ayna",
+    "details": "2002 Model Opel Corsa Dikiz Aynası"
+  }
+]
