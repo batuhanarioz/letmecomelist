@@ -23,6 +23,24 @@
     "id": "4",
     "name": "Terlik",
     "details": "Düz Terlik"
+  },{
+    "id": "5",
+    "name": "Bisiklet",
+    "details": "Salcano Dağ Bisikleti"
   },
-  
+  {
+    "id": "6",
+    "name": "Gardırop",
+    "details": "Üç Kapaklı Az Kullanılmış Gardırop"
+  },
+  {
+    "id": "7",
+    "name": "Türbişon",
+    "details": "Altın Değerinde"
+  },
+  {
+    "id": "8",
+    "name": "Ayna",
+    "details": "2002 Model Opel Corsa Dikiz Aynası"
+  }
 ]
